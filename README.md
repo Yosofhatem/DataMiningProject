@@ -1,4 +1,4 @@
-# Regression Model for Video Game Sale 
+# Regression Model for Video Game Sales
 
 ![Video Games Sales](https://pics.filmaffinity.com/video_games_the_movie-784311979-large.jpg)
 
